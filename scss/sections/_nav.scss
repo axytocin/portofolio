@@ -1,0 +1,5 @@
+@use '../components/mixins' as *;
+
+.nav {
+    @include gradient
+}
